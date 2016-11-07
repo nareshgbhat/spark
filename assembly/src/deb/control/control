@@ -1,0 +1,8 @@
+Package: [[deb.pkg.name]]
+Version: [[version]]-[[buildNumber]]
+Section: misc
+Priority: extra
+Architecture: all
+Maintainer: Naresh Bhat <naresh.bhat@linaro.org>
+Description: [[name]]
+Distribution: development
